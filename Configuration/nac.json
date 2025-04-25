@@ -4530,6 +4530,24 @@
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
                 }
+              },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
               }
             ],
             "size": 1
@@ -4860,6 +4878,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -5191,6 +5226,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -5522,6 +5574,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -5853,6 +5922,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -6184,6 +6270,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -6515,6 +6618,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -6846,6 +6966,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -7177,6 +7314,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -7508,6 +7662,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -7918,6 +8089,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -8249,6 +8437,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -8580,6 +8785,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -8911,6 +9133,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -9242,6 +9481,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -9573,6 +9829,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -9904,6 +10177,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -10235,6 +10525,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -10566,6 +10873,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -10897,6 +11221,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -11307,6 +11648,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -11638,6 +11996,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -11969,6 +12344,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -12300,6 +12692,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -12631,6 +13040,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -12962,6 +13388,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -13293,6 +13736,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -13624,6 +14084,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -13955,6 +14432,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -14286,6 +14780,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -14696,6 +15207,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -15027,6 +15555,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -15358,6 +15903,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -15689,6 +16251,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -16020,6 +16599,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -16351,6 +16947,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -16682,6 +17295,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -17013,6 +17643,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -17344,6 +17991,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
@@ -17675,6 +18339,23 @@
                   "en": "Hands-Free opening function (Wave3/4 only)",
                   "ru": "Функция Система бесключевого доступа (только Wave3/4)",
                   "zh": "無鑰匙進入系統 (Wave3/4 only)"
+                },
+              {
+                "value": "27",
+                "text": {
+                  "fr": "",
+                  "en": "Sound When Speed Limit Changes (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
+                }
+              },
+              {
+                "value": "28",
+                "text": {
+                  "fr": "",
+                  "en": "Excessive Speed Warning (Wave3/4 only)",
+                  "ru": "",
+                  "zh": ""
                 }
               }
             ],
